@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR957824_500K_R2	/Users/qsv231/Library/CloudStorage/OneDrive-McGillUniversity/HGMS/MiCM/ngsintro_exercises1/QC/SRR957824_500K_R2_fastqc.zip
+FastQC	all_sections	SRR957824_R1	/Users/qsv231/Library/CloudStorage/OneDrive-McGillUniversity/HGMS/MiCM/ngsintro_exercises1/QC/SRR957824_R1_trimmed_fastqc.zip
+FastQC	all_sections	SRR957824_R2	/Users/qsv231/Library/CloudStorage/OneDrive-McGillUniversity/HGMS/MiCM/ngsintro_exercises1/QC/SRR957824_R2_trimmed_fastqc.zip
+FastQC	all_sections	SRR957824_500K_R1	/Users/qsv231/Library/CloudStorage/OneDrive-McGillUniversity/HGMS/MiCM/ngsintro_exercises1/QC/SRR957824_500K_R1_fastqc.zip
