@@ -318,9 +318,9 @@ I invite you to see the [documentation](http://www.htslib.org/doc/samtools.html)
 
 ---
 ### References
-* Markdown and exercises prepared by Georgette Femerling adapted from different tutorials and data available:
-Bérénice Batut, Maria Doyle, Alexandre Cormier, Anthony Bretaudeau, Laura Leroi, Erwan Corre, Stéphanie Robin, Erasmus+ Programme, 2022 Quality Control (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html Online; accessed Wed July 6 2022
-Batut et al., 2018 Community-Driven Data Analysis Training for Biology Cell Systems 10.1016/j.cels.2018.05.012
-Joachim Wolff, Bérénice Batut, Helena Rasche, 2022 Mapping (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html Online; accessed Wed July 6 2022
-Gourlé, H., Karlsson-Lindsjö, O., & Hayer, J. (n.d.). Quality Control and Trimming [Online tutorial]. Github.  https://www.hadriengourle.com/tutorials/qc/
-Gourlé, H., Karlsson-Lindsjö, O., & Hayer, J. (n.d.). Mapping and Variant Calling [Online tutorial]. Github.  https://www.hadriengourle.com/tutorials/mapping/
+Markdown and exercises prepared by Georgette Femerling adapted from different tutorials and data available:
+* Bérénice Batut, Maria Doyle, Alexandre Cormier, Anthony Bretaudeau, Laura Leroi, Erwan Corre, Stéphanie Robin, Erasmus+ Programme, 2022 Quality Control (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html Online; accessed Wed July 6 2022
+* Batut et al., 2018 Community-Driven Data Analysis Training for Biology Cell Systems 10.1016/j.cels.2018.05.012
+* Joachim Wolff, Bérénice Batut, Helena Rasche, 2022 Mapping (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html Online; accessed Wed July 6 2022
+* Gourlé, H., Karlsson-Lindsjö, O., & Hayer, J. (n.d.). Quality Control and Trimming [Online tutorial]. Github.  https://www.hadriengourle.com/tutorials/qc/
+* Gourlé, H., Karlsson-Lindsjö, O., & Hayer, J. (n.d.). Mapping and Variant Calling [Online tutorial]. Github.  https://www.hadriengourle.com/tutorials/mapping/
